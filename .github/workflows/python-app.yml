@@ -1,9 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Python application
 
-on:0xf9814123f04aa04358d2082b7fb4bced359f36f5 
   push:
     branches: [ "master" ]
   pull_request:
